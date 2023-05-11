@@ -1,0 +1,208 @@
+body{
+    background-color: burlywood;
+}
+.box{
+    border: 5px solid red;
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    left: 500px;
+}
+.shadow{
+    box-shadow: 5px 5px 0px rgb(104, 28, 210);
+    text-shadow: 0px 0px 5px rgb(22, 22, 221);
+}
+.main{
+    border: 5px solid red;
+    height: 630px;
+}
+.box1{
+    border: 5px solid red;
+    background-color: white;
+    padding: 2px;
+    width: 180px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+
+}
+.shadow1{
+    box-shadow: 5px 5px 0px rgb(104, 28, 210);
+    text-shadow: 0px 0px 4px rgb(22, 22, 221);
+}
+.box2{
+    border: 5px solid red;
+    background-color: white;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+     position: relative;
+     text-align: center;
+    left:1200px;
+    top: -203px;
+}
+.shadow2{
+    box-shadow: 5px 5px 0px rgb(104, 28, 210);
+    text-shadow: 0px 0px 4px rgb(22, 22, 221);
+}
+
+.box3{
+    border: 5px solid red;
+    background-color: white;
+    padding: 2px;
+    width: 200px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+
+}
+.shadow3{
+    box-shadow: 5px 5px 0px rgb(104, 28, 210);
+    text-shadow: 0px 0px 4px rgb(22, 22, 221);
+}
+
+.sticky1
+{
+    height: 60px;
+    width: 400px;
+    background-color: rgb(94, 164, 3);
+    border-radius: 20px;
+    position: fixed;
+    z-index: 2;
+    top: 650px;
+    left: 500px;
+    border: 5px solid red;
+    box-shadow: 5px 5px 0px rgb(174, 0, 105)
+
+}
+.a
+{
+    color: rgb(133, 0, 0);
+    font-size: 20px;
+    padding-left: 10px;
+    font-style: italic;
+    text-align: center;
+    float: left;
+    font-weight: bold;
+
+}
+.b
+{
+    color: rgb(133, 0, 0);
+    font-size: 18px;
+    padding-right: 10px;
+    font-style: italic;
+    text-align: center;
+    float: right;
+    font-weight: bold;
+    
+}
+
+
+
+
+.box4{
+    border: 5px solid red;
+    background-color: white;
+    padding: 2px;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    left: 1200px;
+    top: -260px;
+
+}
+.shadow4{
+    box-shadow: 5px 5px 0px rgb(104, 28, 210);
+    text-shadow: 0px 0px 4px rgb(22, 22, 221);
+}
+.f1
+{
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px rgb(11, 11, 19);
+}
+.f3
+{
+    font-size: 15px;
+    text-align: center;
+     padding: 10px; 
+    color: rgb(38, 6, 61);
+    font-weight: bold;
+    text-shadow: 0px 0px 2pxpx rgb(2, 2, 12);
+}
+.f4
+{
+     padding: 3px; 
+    font-weight: bold;
+    background-color: red;
+    border-radius: 8px;
+    text-shadow: 0px 0px 2px rgb(11, 11, 17);
+}
+
+.main1{
+    border: 5px solid blue;
+    background-color: green;
+    width: 510px;
+    height: 540px;
+    text-align: center;
+    position:relative;
+    left: 450px;
+    top: 5PX;
+}
+.box5{
+   border: 2px solid red;
+   background-color: yellowgreen;
+   width: 250px;
+   height: 250px;
+   font-style: italic;
+   font-weight: bolder;
+   text-align: center;
+   position: relative;
+
+}
+.box6{
+    border: 2px solid red;
+    background-color: yellowgreen;
+    width: 250px;
+    height: 250px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    left:255px;
+    top: -255px;
+ }
+ .box7{
+    border: 2px solid red;
+    background-color: yellowgreen;
+    width: 510px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    top: -255px;
+
+ }
